@@ -37,7 +37,6 @@ wheels/
 .ipynb_checkpoints/
 
 # Dataset and model files
-data/
 models/
 
 # Models (optional - comment out if you want to save models)
